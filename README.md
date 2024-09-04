@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wonjune Kim
-- 👀 I’m interested in 3D object Detection for Autonomous vehicle
+- 👀 I’m interested in 3D perception for Autonomous vehicle
 - 🌱 I’m currently learning Computer Vision & Robotics
 
 <!---
