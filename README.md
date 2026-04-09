@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Wonjune Kim
 - 👀 I’m interested in 3D perception for Autonomous Driving
 - 🌱 I’m currently learning Computer Vision & Robotics
 
